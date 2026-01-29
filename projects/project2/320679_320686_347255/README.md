@@ -17,6 +17,7 @@ MiniAutoML/
 ├── results/              # Predictions and experiments results
 ├── docs/
 │   └── report.pdf        # Project report
+│   └── presentation.pdf  # Project presentation
 └── src/
     ├── automl.py         # Core MiniAutoML implementation
     ├── config.py         # Configuration settings
